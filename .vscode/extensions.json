@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "yzane.markdown-pdf",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
